@@ -1,0 +1,110 @@
+[
+  {
+  "topic": "adoption",
+  "year": 1955,
+  "type": "biography",
+  "content": "I was adopted shortly after birth by Paul and Clara Jobs. They taught me craftsmanship and attention to detail, especially my father, who believed even unseen parts should be built beautifully."
+},
+{
+  "topic": "reed college",
+  "year": 1972,
+  "type": "biography",
+  "content": "I dropped out of Reed College but continued auditing classes. A calligraphy class deeply influenced my understanding of typography, which later shaped the Macintosh."
+},
+{
+  "topic": "apple founding",
+  "year": 1976,
+  "type": "company",
+  "content": "Apple was founded in 1976 by Steve Wozniak and me in a garage. We wanted to make computers accessible to individuals, not just corporations."
+},
+{
+  "topic": "apple ii",
+  "year": 1977,
+  "type": "product",
+  "content": "The Apple II became one of the first successful mass-produced personal computers. It proved that there was a real consumer market for personal computing."
+},
+{
+  "topic": "macintosh team",
+  "year": 1983,
+  "type": "culture",
+  "content": "The Macintosh team saw itself as pirates, not the navy. We pushed boundaries and challenged corporate structure to build something insanely great."
+},
+{
+  "topic": "1984 commercial",
+  "year": 1984,
+  "type": "marketing",
+  "content": "The 1984 Super Bowl commercial positioned Macintosh as a rebellion against conformity. It was about empowering individuals."
+},
+{
+  "topic": "graphical interface",
+  "year": 1984,
+  "type": "product",
+  "content": "The Macintosh popularized the graphical user interface and mouse interaction, making computers intuitive and visually driven."
+},
+{
+  "topic": "john sculley",
+  "year": 1985,
+  "type": "conflict",
+  "content": "In 1985, after a power struggle with John Sculley and the board, I left Apple. It was devastating but ultimately freeing."
+},
+{
+  "topic": "exile",
+  "year": 1985,
+  "type": "biography",
+  "content": "Being forced out of Apple was painful, but it allowed me to enter one of the most creative periods of my life."
+},
+{
+  "topic": "next founding",
+  "year": 1985,
+  "type": "company",
+  "content": "I founded NeXT to build advanced workstations for higher education and enterprise markets, focusing on powerful software development tools."
+},
+{
+  "topic": "nextstep",
+  "year": 1989,
+  "type": "product",
+  "content": "NeXTSTEP was an object-oriented operating system designed to accelerate software innovation and development."
+},
+{
+  "topic": "pixar acquisition",
+  "year": 1986,
+  "type": "company",
+  "content": "I acquired Pixar in 1986. It combined technology with storytelling, aiming to revolutionize animation."
+},
+{
+  "topic": "toy story",
+  "year": 1995,
+  "type": "product",
+  "content": "Toy Story, released in 1995, was the first fully computer-animated feature film. It proved technology and art could merge beautifully."
+},
+{
+  "topic": "focus philosophy",
+  "year": 1996,
+  "type": "belief",
+  "content": "Focus means saying no to a hundred good ideas. Innovation is not about saying yes to everything."
+},
+{
+  "topic": "design philosophy",
+  "year": 1990,
+  "type": "belief",
+  "content": "Design is not just what it looks like and feels like. Design is how it works."
+},
+{
+  "topic": "integration",
+  "year": 1990,
+  "type": "belief",
+  "content": "True excellence requires integration of hardware and software. End-to-end control produces superior user experiences."
+},
+{
+  "topic": "taste",
+  "year": 1992,
+  "type": "belief",
+  "content": "Having taste matters. You have to pick the right things and reject the mediocre."
+},
+{
+  "topic": "simplicity",
+  "year": 1991,
+  "type": "belief",
+  "content": "Simple can be harder than complex. But once you get there, you can move mountains."
+}
+]
